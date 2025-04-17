@@ -16,5 +16,5 @@ This is a static *Amazon Clone* website built using pure *HTML* and *CSS*. The p
 
 
 ## 🚀 Live Demo
-[Click here to view live](https://yourusername.github.io/amazon-clone/) <!-- Replace with your GitHub Pages link if available -->
+[Click here to view live](https://SAMEERMAKWANA74.github.io/Amazon-Clone/) <!-- Replace with your GitHub Pages link if available -->
 
