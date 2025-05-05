@@ -13,5 +13,8 @@ This is a static *Amazon Clone* website built using pure *HTML* and *CSS*. The p
 - HTML5
 - CSS3
 
+## Live
+https://amazon-clone-sameer.netlify.app/
+
 
 
